@@ -2,6 +2,10 @@
 
 Applicazione per gestire attività quotidiane, realizzata con **React** e **Tailwind CSS**.
 
+**Demo online: https://adrianko112.github.io/react-manager/**
+
+![Screenshot dell'applicazione](docs/screenshot.jpg)
+
 ## Funzionalità
 
 - Aggiunta, completamento, modifica (doppio click) ed eliminazione delle attività
